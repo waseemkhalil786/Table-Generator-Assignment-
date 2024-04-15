@@ -1,0 +1,71 @@
+*{
+    background-color: rgb(241, 241, 122);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    font-variant: initial;
+    font-size: xx-large;
+}
+.Table-justify{
+    color: rgb(86, 95, 92);
+    text-shadow: 2px 2px #69af18;
+    border-radius: 3px rgb(218, 105, 24); 
+    margin-top: 50px; 
+}
+h1.font-adjust{
+    font-stretch: expanded;
+    color: #30332d;
+    font-weight: bolder;
+    font-style: italic;
+    
+}
+#table{
+    border-radius: 3px;
+}
+
+
+#time{
+    background: linear-gradient(#5f5a2d , #200f22, #4c4e4e);
+    border-radius: 19px;
+    box-shadow: 0 4px 6px rgba(125, 143, 77, 0.997);
+    color: white;
+    transition: all 0.5s;
+    border: 2px solid rgb(180, 180, 180);
+    width: 379px;
+    height: auto;
+    margin-top: 70px;
+    
+
+  }
+ 
+  #time:hover{
+    border-radius: 15px;
+    transition: all 0.5s;
+  }
+
+  input {
+    height: 50px;
+    width: 380px;
+    background-color: rgba(135, 141, 130, 0.486);
+    outline: none;
+    border: none;
+    font-size: 1.2rem;
+    font-family: "Montserrat", sans-serif;
+    padding: 8px;
+    border-radius: 10px;
+    color: #1e201b;
+  }
+
+  button {
+    height: 50px;
+    width: 150px;
+    background-color: rgba(145, 73, 26, 0.8);
+    border-radius: 15px;
+    color: white;
+    outline: none;
+    border: none;
+    margin-top: 35px;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: 0.6s;
+    font-family: Montserrat;
+  }
